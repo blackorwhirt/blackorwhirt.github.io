@@ -1,30 +1,33 @@
----
-layout: post
-title: 绿豆百合羹
-category: 厨房
-tags: 
-keywords: 
-description: 
----
+## Welcome to MarkdownPad 2 ##
 
-> “你要学会转移感情。”--真人秀《LAY的一生》
+**MarkdownPad** is a full-featured Markdown editor for Windows.
 
-###材料
+### Built exclusively for Markdown ###
 
-1. 绿豆100g
-2. 干百合30g
-3. 冰糖若干
+Enjoy first-class Markdown support with easy access to  Markdown syntax and convenient keyboard shortcuts.
 
-###步骤
+Give them a try:
 
-1. 绿豆洗净，放入600ml水中大火烧开，改小火烧到绿豆开花
-2. 此时加入洗净的干百合
-3. 继续小火烧，凭感觉在适当时刻加入冰糖80g
-4. 直到绿豆百合煮烂，关火上汤
+- **Bold** (`Ctrl+B`) and *Italic* (`Ctrl+I`)
+- Quotes (`Ctrl+Q`)
+- Code blocks (`Ctrl+K`)
+- Headings 1, 2, 3 (`Ctrl+1`, `Ctrl+2`, `Ctrl+3`)
+- Lists (`Ctrl+U` and `Ctrl+Shift+O`)
 
-###完成
+### See your changes instantly with LivePreview ###
 
-味道，清香甘甜，沙感细腻，非同寻常的好。!!!
+Don't guess if your [hyperlink syntax](http://markdownpad.com) is correct; LivePreview will show you exactly what your document looks like every time you press a key.
 
-![1](/public/img/food/mung.jpg)
+### Make it your own ###
 
+Fonts, color schemes, layouts and stylesheets are all 100% customizable so you can turn MarkdownPad into your perfect editor.
+
+### A robust editor for advanced Markdown users ###
+
+MarkdownPad supports multiple Markdown processing engines, including standard Markdown, Markdown Extra (with Table support) and GitHub Flavored Markdown.
+
+With a tabbed document interface, PDF export, a built-in image uploader, session management, spell check, auto-save, syntax highlighting and a built-in CSS management interface, there's no limit to what you can do with MarkdownPad.
+
+**winter**
+
+石志强是个王八蛋
